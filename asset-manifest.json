@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/lipcritic-presskit/static/css/main.cdcb7a83.css",
-    "main.js": "/lipcritic-presskit/static/js/main.503ebcb9.js",
+    "main.css": "/lipcritic-presskit/static/css/main.3ceecb61.css",
+    "main.js": "/lipcritic-presskit/static/js/main.eef00338.js",
     "static/js/787.03d39e78.chunk.js": "/lipcritic-presskit/static/js/787.03d39e78.chunk.js",
     "static/media/FreeSansBold.ttf": "/lipcritic-presskit/static/media/FreeSansBold.974eea1b945ddbbafb86.ttf",
     "static/media/eye.png": "/lipcritic-presskit/static/media/eye.fa15c616da39fc96a93a.png",
     "index.html": "/lipcritic-presskit/index.html",
-    "main.cdcb7a83.css.map": "/lipcritic-presskit/static/css/main.cdcb7a83.css.map",
-    "main.503ebcb9.js.map": "/lipcritic-presskit/static/js/main.503ebcb9.js.map",
+    "main.3ceecb61.css.map": "/lipcritic-presskit/static/css/main.3ceecb61.css.map",
+    "main.eef00338.js.map": "/lipcritic-presskit/static/js/main.eef00338.js.map",
     "787.03d39e78.chunk.js.map": "/lipcritic-presskit/static/js/787.03d39e78.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cdcb7a83.css",
-    "static/js/main.503ebcb9.js"
+    "static/css/main.3ceecb61.css",
+    "static/js/main.eef00338.js"
   ]
 }
